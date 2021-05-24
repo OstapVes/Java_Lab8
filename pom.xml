@@ -9,9 +9,9 @@
 		<relativePath/>
 	</parent>
 	<groupId>ua.lviv.iot</groupId>
-	<artifactId>lessonwithzenyk</artifactId>
+	<artifactId>lab10</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lessonwithzenyk</name>
+	<name>lab10</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
